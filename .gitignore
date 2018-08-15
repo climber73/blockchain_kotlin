@@ -1,0 +1,12 @@
+.idea/
+cmake-build-*/
+*.iws
+out/
+.idea_modules/
+atlassian-ide-plugin.xml
+*.class
+*.jar
+.classpath
+.project
+.gradle/
+
